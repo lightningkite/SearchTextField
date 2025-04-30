@@ -11,7 +11,7 @@ let package = Package(
     products: [
         .library(name: "SearchTextField", targets: ["SearchTextField"]),
     ],
-    dependencies: []
+    dependencies: [],
     targets: [
         .target(
             name: "SearchTextField",
